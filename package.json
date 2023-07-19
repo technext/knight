@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "autoload": "^0.1.2",
+    "composer": "^4.1.0",
+    "node": "^19.4.0",
+    "php": "^1.0.2"
+  }
+}
